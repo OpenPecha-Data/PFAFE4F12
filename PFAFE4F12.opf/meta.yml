@@ -325,3 +325,8 @@ source_metadata:
       parent: Yumka Dechen Gyalmo
 created_at: '2022-03-01T04:26:19.181607'
 last_modified_at: '2022-03-01T04:26:19.181610'
+statistics:
+  total_words: 142216
+  total_non_words: 16320
+quality:
+  non_words_ratio: 0.11
